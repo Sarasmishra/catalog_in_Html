@@ -1,3 +1,5 @@
+
+
 let name = "saras";
 
 let bag ="";
@@ -10,3 +12,4 @@ if(name==bag){
 else{
     console.log("Not a Palindrome")
 }
+
